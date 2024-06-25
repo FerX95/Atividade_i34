@@ -23,3 +23,11 @@ body{
     text-decoration: none;
     border-radius: 5px;
 }
+
+.bg01{
+    background-size: cover;
+    background-image: url(/img/bg-holambra.jpg);}
+
+    .main a{
+        background-color: orange;
+    }
