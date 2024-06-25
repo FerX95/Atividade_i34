@@ -23,3 +23,15 @@ body{
     text-decoration: none;
     border-radius: 5px;
 }
+
+.bg_roger{
+    background-color: #ff0000;
+}
+
+.img_roger{
+    height: 250px;
+}
+
+a:hover{
+    background-color: #000000;
+}
