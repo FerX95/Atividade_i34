@@ -1,0 +1,55 @@
+body{
+    background-color: #483d8b;
+}
+
+.main{
+    text-align: center;
+    margin: auto;
+    width: 450px;
+    background-color: #ffffff;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.main img{
+    width: 250px;
+    border-radius: 50%;
+}
+
+.main a{
+    background-color: #6495ed;
+    padding: 7px 25px;
+    color: #ffffff;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.cor_bg{
+    background: #15f1d4;
+}
+
+.card{
+    box-shadow: 2px 5px 5px #333333 ;
+    margin-top: 15px;
+}
+
+.nome{
+    color: #20a896;
+    font-size: 40px;
+}
+
+p{
+    font-size: 16px;
+    text-align: justify;
+    word-spacing: 2px;
+}
+
+.button:hover{
+    background-color: #1d3e85;
+}
+
+.main img:hover{
+    width: 260px;
+    border:5px solid #15f1d4;
+    transition: 0.5s;
+}
